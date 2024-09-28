@@ -7,7 +7,7 @@ const { siteTitle, siteTitleHref } = Astro.props;
 
 <a href={siteTitleHref} class="site-title sl-flex">
 	{
-		config.logo && logos.dark && (
+		config.logo && (
 			<>
 				<img
 					class:list={{ 'light:sl-hidden': !('src' in config.logo) }}
