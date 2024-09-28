@@ -1,5 +1,11 @@
 # @astrojs/starlight
 
+## 0.28.3
+
+### Patch Changes
+
+- [#2380](https://github.com/withastro/starlight/pull/2380) [`7b451cf`](https://github.com/withastro/starlight/commit/7b451cff6979bef1c817f3a84392221ac884ba3d) Thanks [@delucis](https://github.com/delucis)! - Loosen Starlight’s i18n schema to pass through unknown keys
+
 ## 0.28.2
 
 ### Patch Changes
